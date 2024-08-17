@@ -8,6 +8,11 @@
   ```
   npm install
   ```
+##### To add Material UI to your project:
+  ```
+  npm install @mui/material @emotion/react @emotion/styled
+  npm install @mui/icons-material
+  ```
 
 ### Clone the Repository
 
