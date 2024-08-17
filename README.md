@@ -2,18 +2,6 @@
 
 #### If you're running this locally in VS Code use the commands:
 
-### Prerequisites
-
-##### To install the node modules:
-  ```
-  npm install
-  ```
-##### To add Material UI to your project:
-  ```
-  npm install @mui/material @emotion/react @emotion/styled
-  npm install @mui/icons-material
-  ```
-
 ### Clone the Repository
 
 1. Open a terminal or command prompt.
@@ -29,6 +17,18 @@ Change your working directory to the newly cloned repository:
 ```
 cd keeper-app
 ```
+
+### Prerequisites
+
+##### To install the node modules:
+  ```
+  npm install
+  ```
+##### To add Material UI to your project:
+  ```
+  npm install @mui/material @emotion/react @emotion/styled
+  npm install @mui/icons-material
+  ```
 
 ### Run the Program
 
