@@ -37,6 +37,8 @@ npm run dev
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request! Good luck, and happy coding! 😊
 
+#### Contact Info: **[Portfolio](https://pratik-marathe-portfolio.netlify.app/)**
+
 
 
 
